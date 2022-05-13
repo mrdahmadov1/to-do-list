@@ -93,8 +93,8 @@ body {
   border-radius: 50%;
   border: 2px solid #393a4c;
   cursor: pointer;
-  -webkit-transition: all 0.25s;
-  transition: all 0.25s;
+  -webkit-transition: all .25s;
+  transition: all .25s;
 }
 
 .container .new-todo .check .check-mark:hover {

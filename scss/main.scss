@@ -62,7 +62,7 @@ body{
                 border-radius: 50%;
                 border: 2px solid hsl(237, 14%, 26%);
                 cursor: pointer;
-                transition: all 0.25s;
+                transition: all .25s;
                 
                 &:hover{
                     background: linear-gradient(135deg, #55ddff 0%, #c058f3 100%);
